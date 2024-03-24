@@ -1,0 +1,22 @@
+Pre- work
+
+#use the print statement
+
+print("Hello, World!")
+
+#now enter a different text
+
+print(" ")
+
+
+
+#add some values
+
+1+3
+
+
+#Store values into an object/variable
+
+x= 1
+
+x
